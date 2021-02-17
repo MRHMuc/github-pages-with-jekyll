@@ -1,4 +1,4 @@
-# Welcome to the training blog of MRHMuc
+## Welcome to the training blog of MRHMuc
 
 I'm glad you are here. 
 
