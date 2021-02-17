@@ -1,5 +1,3 @@
-## Welcome to the training blog of MRHMuc
-
 I'm glad you are here. 
 
 My plan is to 
